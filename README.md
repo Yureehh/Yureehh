@@ -8,7 +8,8 @@ Sometimes they even collaborate. Sometimes they fight. We learn from both.
 
 ## About me
 🎓 **BSc in Computer Science** + **MSc in Data Science** (top grades — I took it personally).  
-💼 **Data Scientist @ Data Reply** — I turn messy data into decisions, and occasionally into plots that look *too* confident.
+💼 **Data Scientist @ Data Reply** — I turn messy data into decisions, and occasionally into plots that look *too* confident.  
+🎓 **Data & AI Tutor (online courses)** — I teach ML/AI concepts and help people ship projects without summoning chaos.
 
 🧪 Off-hours I build things that start as “quick experiments” and end as:
 - 🤖 **GenAI** projects (RAG, agents, eval, pipelines — the fun kind of engineering)
