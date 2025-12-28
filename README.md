@@ -29,12 +29,6 @@ Sometimes they even collaborate. Sometimes they fight. We learn from both.
 🚫 My gaming stats (I have standards. sometimes.)
 
 
-## GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Yureehh&show_icons=true&hide_title=true&rank_icon=github)
-![Streak](https://streak-stats.demolab.com?user=Yureehh)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yureehh&layout=compact)
-
-
 ## Reach me
 📫 **Email:** fabbri.juri@gmail.com  
 💼 **LinkedIn:** [juri-fabbri](https://www.linkedin.com/in/juri-fabbri/)  
