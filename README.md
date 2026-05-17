@@ -1,4 +1,4 @@
-# Hi there! I'm Juri, also known as Yureeh
+# Hi there! I'm Juri, aka Yureeh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yureehh&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -6,8 +6,8 @@ Welcome to my GitHub profile, where machine learning, GenAI, and videogames peac
 
 Most of the time.
 
-Sometimes they collaborate.
-Sometimes they fight.
+Sometimes they collaborate.  
+Sometimes they fight.  
 Either way, I usually end up building something.
 
 ## About me
@@ -32,13 +32,13 @@ I work mostly around ML systems, GenAI engineering, data products, document inte
 ### OracleBets
 A sports and esports prediction engine built to turn historical match data, player signals, and market movement into probabilistic betting insights.
 
-Less “I have a feeling about this match.”
+Less “I have a feeling about this match.”  
 More “the model sees value here, and here’s why.”
 
 ### AI Website Builder
 An automated website generation pipeline for small businesses and freelancers.
 
-It turns a simple business intake into a polished static website: positioning, copy, structure, visuals, and deployable code. Built for the kind of local businesses that need a serious web presence without entering agency-budget territory.
+It turns a simple business intake into a polished static website: positioning, copy, structure, visuals, and deployable code. Built for local businesses that need a serious web presence without wandering into agency-budget land.
 
 ### Extractly
 An AI-powered document intelligence system for transforming messy files into structured, traceable data.
