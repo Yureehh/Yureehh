@@ -27,19 +27,23 @@ I work mostly around ML systems, GenAI engineering, data products, document inte
 - 🏟️ Sports and esports analytics: probabilistic models, betting analysis, performance tracking
 - 🧠 AI education: practical ML/AI explanations for people who want to ship, not just stare at equations
 
-## Selected projects
+## Featured builds
+
+### OracleBets
+A sports and esports prediction engine built to turn historical match data, player signals, and market movement into probabilistic betting insights.
+
+Less “I have a feeling about this match.”
+More “the model sees value here, and here’s why.”
+
+### AI Website Builder
+An automated website generation pipeline for small businesses and freelancers.
+
+It turns a simple business intake into a polished static website: positioning, copy, structure, visuals, and deployable code. Built for the kind of local businesses that need a serious web presence without entering agency-budget territory.
 
 ### Extractly
-AI-powered document intelligence for extracting structured, traceable metadata from unstructured files.
+An AI-powered document intelligence system for transforming messy files into structured, traceable data.
 
-### Oracle Bets
-Sports and esports prediction engine using historical data, player signals, and probabilistic modeling to support betting analysis.
-
-### Betting Dashboard
-A dashboard for tracking betting performance, bankroll movement, and strategy profitability over time.
-
-### Coming next
-An automated website builder for small businesses: intake, copy generation, static site creation, deployment, and a sprinkle of AI-powered communication.
+It handles document classification, schema-aware extraction, and metadata generation so unstructured documents stop being a graveyard of “we’ll process this manually later.”
 
 ## What you’ll find here
 
