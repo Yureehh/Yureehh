@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Juri, also known as Yureeh
+# Hi there! I'm Juri, also known as Yureeh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yureehh&label=Profile%20views&color=0e75b6&style=flat)
 
